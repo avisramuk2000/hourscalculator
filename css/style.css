@@ -1,0 +1,53 @@
+body{
+    background:rgb(192, 15, 148);
+}
+
+
+
+.container{
+    width: 75%;
+    margin: 0 auto;
+border: 1px black solid;
+text-align: center;
+padding-bottom: 10px;
+background: rgb(234, 231, 235);
+height: 500px;
+color: rgb(231, 23, 40);
+font-size: 40px;
+
+}
+.result{
+    width: 50%;
+    margin:  0 auto;
+    border: 1px black solid;
+text-align: center;
+margin-top: 10px;
+padding: 10px;
+color: wheat;
+
+
+}
+.check{
+    background: darkblue;
+    border: 0;
+    color: wheat;
+    border-radius: 20px;
+    width: 20%;
+    padding: 10px;
+
+}
+.check:hover{
+cursor: pointer;
+}
+.reset{
+    background: red;
+    border: 0;
+    color: wheat;
+border-radius: 20px;
+    width: 20%;
+    padding: 10px;
+}
+.reset:hover{
+    cursor: pointer;
+    }
+    
